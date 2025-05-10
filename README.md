@@ -11,5 +11,5 @@ Meu objetivo é unir minha bagagem em negócios com ferramentas modernas de Busi
 
 Estou construindo projetos práticos utilizando Python, SQL e Power BI, e sigo aprendendo constantemente para me tornar um Analista de BI completo. Se você também acredita no poder dos dados para transformar decisões e negócios, vamos conversar!
 
-Linkedin:  https://br.linkedin.com/in/jo%C3%A3o-paulo-sueira
-E-mail: bielsueira@gmail.com
+🔗Linkedin:  https://br.linkedin.com/in/jo%C3%A3o-paulo-sueira                                                     
+📧E-mail: bielsueira@gmail.com
