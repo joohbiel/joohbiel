@@ -7,7 +7,7 @@ Sou um profissional com sólida experiência em finanças, riscos e gestão, ten
      Visualização de Dados com Power BI e Tableau                                                              
               Modelagem de Dados, estatística aplicada e fundamentos de Machine Learning
 
-Meu objetivo é unir minha bagagem em negócios com ferramentas modernas de Business Intelligence, atuando como Analista de BI para gerar insights e apoiar a tomada de decisões baseadas em dados.
+*Meu objetivo* é unir minha bagagem em negócios com ferramentas modernas de Business Intelligence, atuando como Analista de BI para gerar insights e apoiar a tomada de decisões baseadas em dados.
 
 Estou construindo projetos práticos utilizando Python, SQL e Power BI, e sigo aprendendo constantemente para me tornar um Analista de BI completo. Se você também acredita no poder dos dados para transformar decisões e negócios, vamos conversar!
 
