@@ -2,7 +2,7 @@
 
 Sou um profissional com sólida experiência em finanças, riscos e gestão, tendo atuado em grandes instituições como Votorantim e Itaú. Após anos contribuindo com a análise estratégica, gestão e negocios estou em transição de carreira para a área de tecnologia com foco em análise de dados. Atualmente, atuo fortemente com Power BI, desenvolvendo dashboards complexos para a tomada de decisões na área de riscos do Santander.
 
-*Estou focado no desenvolvimento contínuo das minhas habilidades em:*                                                                                                                           
+***Estou focado no desenvolvimento contínuo das minhas habilidades em:***                                                                                                                          
                                    Análise de Dados com Python, SQL e Excel avançado                                   
      Visualização de Dados com Power BI e Tableau                                                              
               Modelagem de Dados, estatística aplicada e fundamentos de Machine Learning
